@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Primeiro commit - site CORPO"
 git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/planilha-gastos-corpo.git
+git remote add origin https://github.com/henriqueleonisio/planilha-gastos-corpo.git
 git push -u origin main
